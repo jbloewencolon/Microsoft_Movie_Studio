@@ -1,6 +1,6 @@
 # Microsoft Movie Studio: A Romance to Make Millions
 
-![hearts-dollars.jpg](attachment:hearts-dollars.jpg)
+![[hearts-dollars.jpg](attachment:hearts-dollars.jpg)](https://github.com/jbloewencolon/Microsoft_Movie_Studio/blob/main/images/hearts-dollars.jpg)
 
 # Overview
 
