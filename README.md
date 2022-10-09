@@ -17,7 +17,7 @@ With the RT data, we wanted to focus primarily on genre types and their critical
 
 ### First Insight: The relationship between "Production Budget" and "Gross Income"
 
-* Our first intuition was to see what the actual return on investment was for production budgets. 
+* Our first intuition was to see what the actual return on investment was for production budgets. So we greated a profit column that subtracted the production budget from the overall (worldwide) gross. We then created a second column that calculated the retun on investment by dividing the profit by the production budget.
 
 ![alt text](https://github.com/jbloewencolon/Microsoft_Movie_Studio/blob/main/images/image%201%20-ROI.JPG)
 
