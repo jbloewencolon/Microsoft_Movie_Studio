@@ -19,8 +19,11 @@ With the RT data, we wanted to focus primarily on genre types and their critical
 
 * Our first intuition was to see what the actual return on investment was for production budgets. 
 
+![alt text](https://github.com/jbloewencolon/Microsoft_Movie_Studio/blob/main/images/image%201%20-ROI.JPG)
 
 * At first glance, it seems like there is a pretty strong correlation between the amount of money a studio spends on a film and the amount of return they get. We wanted to pin this correlation down, so we turned our scatter plot into a regression plot, and then used scipy stats to create a line regression that could give us insight to how much actual return a studio would get per dollar spent.
+
+![alt text](https://github.com/jbloewencolon/Microsoft_Movie_Studio/blob/main/images/image%202%20-%20ROI%20per%20Dollar.JPG)
 
 * As it turns out, it looks like the studios can expect to get about 3 dollars back for every 1 dollar they add to their production budget. Not bad!
 
@@ -28,9 +31,13 @@ With the RT data, we wanted to focus primarily on genre types and their critical
 
 * But everyone knows that there are different tiers of films. Ranging from indie to blockbusters. So how do we take into account the budget tier of a film? We went to [Film Lifestyle](https://filmlifestyle.com/film-budgets/) in order to get a sense about what seperates the budgets of film tiers and then created a function to help us parse out the different film types we think Microsoft should be aiming for. We dropped the lowest tier of films (student films and others) that had budgets of less than $10000.
 
+![alt text](https://github.com/jbloewencolon/Microsoft_Movie_Studio/blob/main/images/image%203%20-%20ROI%20per%20Tier.JPG)
+
 * The above graph helps us see that while low budget films might offer the biggest return on investment, they also come with the highest deviation, which means they are VERY risky! But how risky?
 
 ### Blockbusters are the safest bet!
+
+![alt text](https://github.com/jbloewencolon/Microsoft_Movie_Studio/blob/main/images/image%204%20-%20Budget%20Risk.JPG)
 
 * As it turns out, blockbusters are actually the safest bet for making money, even if they might not offer the largest ROI. With the outliers removed, our graph does not quite indicate the level of risk/reward for low budget and moderate budget films, but it gets the larger point across.
 
@@ -38,7 +45,7 @@ With the RT data, we wanted to focus primarily on genre types and their critical
 
 * We finally get to the Rotten Tomatoes dataset! The goal here is to figure out what TYPES of movies that Microsoft should make in order to maintain a positive standing among movie goers as a studio that produces "must-see" movie events that will then generate more revenue. 
 
-* So first, we look to MPA rating, to see if there is any correlation between the rating its given and the how positive its reviews are. Turns out, PG-13 movies typically get the most positive ratings.
+![alt text](https://github.com/jbloewencolon/Microsoft_Movie_Studio/blob/main/images/image%206%20-%20genre%20rating.JPG)
 
 * According to our plot, the top 5 positively rated genres are drama, romance, musicals, family films, and comedies. The least positively rated movies are horror, science fiction, westerns, and action films. This strikes us as unlikely, but that could be a limitation of this dataset. 
 
