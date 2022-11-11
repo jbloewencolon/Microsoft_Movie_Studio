@@ -63,5 +63,4 @@ While we happily trust our analysis on the budget production, return on investme
 
 # Questions?
 For a full analysis please check the Jupyter Notebook or slide presentation.
-
 Further questions? Contact Jordan Loewen-Colón @ jbloewen@syr.edu
