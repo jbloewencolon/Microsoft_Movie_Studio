@@ -2,6 +2,8 @@
 
 ![[hearts-dollars.jpg](attachment:hearts-dollars.jpg)](https://github.com/jbloewencolon/Microsoft_Movie_Studio/blob/main/images/hearts-dollars.jpg)
 
+By Jordan Loewen-Colón October 14th 2022
+
 # Overview
 
 ## Business Understanding
