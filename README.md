@@ -66,3 +66,13 @@ While we happily trust our analysis on the budget production, return on investme
 # Questions?
 For a full analysis please check the Jupyter Notebook or slide presentation.
 Further questions? Contact Jordan Loewen-Colón @ jbloewen@syr.edu
+
+## Repository Structure
+
+
+```
+├── data : data used for modeling
+├── images : images used in PPT and README
+├── Microsoft Movie Studio.ipynb : notebook used to pull from API
+├── README.md : project information and repository structure
+├── presentation.pdf : the powerpoint presentation used to present data analysis
