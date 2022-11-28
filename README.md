@@ -54,8 +54,8 @@ With the RT data, we wanted to focus primarily on genre types and their critical
 # Conclusion
 
 According to our three data insights above, it looks like if Microsoft wants to be successful in the movie industry they need to:
-   1. Not be afriad to spend big on their production budgets
-   2. Focus on producing primarily "blockbuster" type films while carefully taking risks with smaller budget films
+   1. Realize that there is a linear relationship between budget and gross income. In other words: spend money to make money.
+   2. Focus on big budget projects for safest ROI but take risks on smaller budget "prestige" projects to build brand identity and possibly strike it rich!
    3. Produce films from genres that generate the highest positive critical reception: PG 13 and R rated films in the 
        categories of Drama, Romance, Musicals, Family, and Comedy.
 
